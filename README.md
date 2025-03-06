@@ -1,5 +1,6 @@
-# ML
+# 机器学习
 智能催化材料计算设计平台
+<img width="1122" alt="image" src="https://github.com/user-attachments/assets/f673a9bd-c443-40a3-8c14-0e7b300b72dd" />
 
 交叉领域：机器学习 × 计算化学 × 工业催化
 技术标签：可解释性AI 多目标优化 知识增强图神经网络 高通量筛选
@@ -41,7 +42,6 @@ XGBoost/MLP预测模型达到R²=0.93-0.95，锁定框架体积与最大腔径�
 期刊：MOLECULES (JCR Q2, 预计2025年6月提交)
 ​## 第二作者工作：《CO2 Hydrogenation to Olefins: A Thermodynamic Study via ML》
 状态：在投（导师通讯作者）
-🔍 模型可解释性案例
+## 🔍 模型可解释性案例
 
-https://via.placeholder.com/800x400?text=SHAP+Feature+Importance+Visualization
 通过ML模型反演发现的描述符与催化火山理论一致性验证
