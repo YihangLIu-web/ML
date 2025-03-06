@@ -37,10 +37,12 @@ XGBoost/MLP预测模型达到R²=0.93-0.95，锁定框架体积与最大腔径�
 开发ASPEN ACM膜反应器多物理场耦合模型
 ### 学术论文
 
-​## 第一作者工作：《Machine Learning Guided Zeolite Catalyst Optimization》
+​#### 第一作者工作：《Machine Learning Guided Zeolite Catalyst Optimization》
 期刊：MOLECULES (JCR Q2, 预计2025年6月提交)
-​## 第二作者工作：《CO2 Hydrogenation to Olefins: A Thermodynamic Study via ML》
+​#### 第二作者工作：《CO2 Hydrogenation to Olefins: A Thermodynamic Study via ML》
 状态：在投（导师通讯作者）
-## 🔍 模型可解释性案例
+#### 🔍 模型可解释性案例
 
 通过ML模型反演发现的描述符与催化火山理论一致性验证
+根据注意力机制权重参数判断贡献
+
