@@ -1,4 +1,4 @@
-# 机器学习
+# 机器学习辅助催化剂筛选
 智能催化材料计算设计平台
 <img width="1122" alt="image" src="https://github.com/user-attachments/assets/f673a9bd-c443-40a3-8c14-0e7b300b72dd" />
 
