@@ -4,7 +4,7 @@
 交叉领域：机器学习 × 计算化学 × 工业催化
 技术标签：可解释性AI 多目标优化 知识增强图神经网络 高通量筛选
 
-🌟 核心研究亮点
+## 🌟 核心研究亮点
 
 1. 单原子催化剂ML-DFT协同设计
 
@@ -28,18 +28,18 @@ QM9数据集分子性质预测RMSE <0.18 eV
 建立230种沸石构效数据库，贝叶斯优化指导千级参数空间搜索
 XGBoost/MLP预测模型达到R²=0.93-0.95，锁定框架体积与最大腔径为核心描述符
 筛选出5种高稳定性过渡金属掺杂方案（吸附能优化+负载量提升）
-🏆 工程实践与学术产出
+## 🏆 工程实践与学术产出
 
-关键竞赛
+### 关键竞赛
 
 ​全国大学生化工设计大赛（二等奖）​ | 团队负责人
 创新设计反应精馏隔壁塔，​能耗降低25%
 开发ASPEN ACM膜反应器多物理场耦合模型
-学术论文
+### 学术论文
 
-​第一作者工作：《Machine Learning Guided Zeolite Catalyst Optimization》
+​## 第一作者工作：《Machine Learning Guided Zeolite Catalyst Optimization》
 期刊：MOLECULES (JCR Q2, 预计2025年6月提交)
-​第二作者工作：《CO2 Hydrogenation to Olefins: A Thermodynamic Study via ML》
+​## 第二作者工作：《CO2 Hydrogenation to Olefins: A Thermodynamic Study via ML》
 状态：在投（导师通讯作者）
 🔍 模型可解释性案例
 
