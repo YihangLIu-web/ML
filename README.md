@@ -10,7 +10,8 @@
 
 ​项目内容:《Achieving Pareto Optimality of Nitrogen Reduction Reaction Pathways Based on Explainable Machine Learning and First-Principles Calculations》本项目针对氮还原反应（NRR）双质子化路径，提出基于可解释机器学习（XAI）与高通量第一性原理计算的协同策略，筛选高效单原子电催化剂（SACs）；结合开源数据库与集成XGBoost、LightGBM、GBR与MLPs模型算法构建多模型融合框架，直接预测吉布斯  自由能（RMSE <0.2 eV），突破传统DFT计算效率瓶颈；结合SHAP（Shapley Additive Explanations）全局/局部解释性分析，揭示“Radius difference”为关键描述符，首次将催化火山理论融入ML模型，实现催化剂活性与稳定性的双目标优化。
 #### 知识增强型图注意力网络（KAGAT）
-![Uploading 截屏2025-03-07 12.15.05.png…]()
+<img width="1314" alt="image" src="https://github.com/user-attachments/assets/e4da4b5c-56e3-4050-9b6e-90ca484d5973" />
+
 
 ​架构创新：
 项目内容: 本研究提出一种新型知识增强型图注意力网络架构（Knowledge-Augmented Graph Attention Network, KAGAT），通过设计双通道门控自适应机制实现化学领域先验知识与深度表征学习的动态融合。该模型构建了包含多头异构注意力子层的双路信息处理通道：结构感知通道采用改进的图注意力网络（GATv2），通过可微分边权重组机制捕捉分子图结构中的动态邻域关联；利用关系型图卷积提取官能团特性、电子效应等化学先验特征，创新性地设计了跨模态门控融合单元（Cross-modal Gating Unit, CMGU），通过可学习参数矩阵动态调节结构特征与知识特征的贡献权重本模型在分子性质预测任务中F1值提升8.2-12.7%，显著优于传统GAT及知识蒸馏方法，为化学智能计算提供了兼具数据驱动学习与领域知识解释性的新型范式。
