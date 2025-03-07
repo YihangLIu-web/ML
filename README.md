@@ -32,7 +32,8 @@ XGBoost/MLP预测模型达到R²=0.93-0.95，锁定框架体积与最大腔径�
 ### 学术论文
 
 #### 第一作者工作：《Machine Learning Guided Zeolite Catalyst Optimization》
-期刊：MOLECULES (JCR Q2, 预计2025年6月提交)/n
+期刊：MOLECULES (JCR Q2, 预计2025年6月提交)  
+
 ​第二作者工作：《CO2 Hydrogenation to Olefins: A Thermodynamic Study via ML》
 状态：在投（导师通讯作者）
 #### 🔍 模型可解释性案例
