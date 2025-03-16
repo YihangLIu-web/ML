@@ -9,6 +9,9 @@
 #### 单原子催化剂ML-DFT协同设计
 
 ​项目内容:《Achieving Pareto Optimality of Nitrogen Reduction Reaction Pathways Based on Explainable Machine Learning and First-Principles Calculations》本项目针对氮还原反应（NRR）双质子化路径，提出基于可解释机器学习（XAI）与高通量第一性原理计算的协同策略，筛选高效单原子电催化剂（SACs）；结合开源数据库与集成XGBoost、LightGBM、GBR与MLPs模型算法构建多模型融合框架，直接预测吉布斯  自由能（RMSE <0.2 eV），突破传统DFT计算效率瓶颈；结合SHAP（Shapley Additive Explanations）全局/局部解释性分析，揭示“Radius difference”为关键描述符，首次将催化火山理论融入ML模型，实现催化剂活性与稳定性的双目标优化。
+#### 网络架构
+![图片 1](https://github.com/user-attachments/assets/63375303-497d-4019-8a3a-0d880fe4e8ee)
+
 #### 知识增强型图注意力网络（KAGAT）
 <img width="1314" alt="image" src="https://github.com/user-attachments/assets/e4da4b5c-56e3-4050-9b6e-90ca484d5973" />
 
