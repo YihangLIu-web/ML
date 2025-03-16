@@ -13,7 +13,8 @@
 ![图片 1](https://github.com/user-attachments/assets/63375303-497d-4019-8a3a-0d880fe4e8ee)
 
 #### 知识增强型图注意力网络（KAGAT）
-<img width="1314" alt="image" src="https://github.com/user-attachments/assets/e4da4b5c-56e3-4050-9b6e-90ca484d5973" />
+![图片 2](https://github.com/user-attachments/assets/b73cc827-b0e6-4c49-8822-84c02e060648)
+
 
 
 ​架构创新：
