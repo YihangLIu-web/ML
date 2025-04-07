@@ -33,6 +33,8 @@ XGBoost/MLP预测模型达到R²=0.93-0.95，锁定框架体积与最大腔径�
 ​全国大学生化工设计大赛（二等奖）​ | 团队负责人
 创新设计反应精馏隔壁塔，​能耗降低25%
 开发ASPEN ACM膜反应器多物理场耦合模型
+<img width="1156" alt="image" src="https://github.com/user-attachments/assets/bd910d25-630a-4a13-babc-9a099c5c043b" />
+
 ### 学术论文
 
 #### 第一作者工作：《Machine Learning Guided Zeolite Catalyst Optimization》
