@@ -22,7 +22,8 @@
 #### 基与Transformer的多模态分子热力学性质预测框架
 架构创新：
 本人设计基于Transformer双通道门控图网络架构，通过多头自注意力机制（Multi-head-attention）动态融合分子图结构与分子2D性质预测分子吉布斯自由能；交叉注意力机制（Cross-attention）分层动态提取多层残差GAT分子键拓扑特征，多层卷积神经网络（CNN）实现分子图形状特征编码，跨模态Transformer层实现特征动态对齐；可微分权重参数增加可解释性，QM9数据集实现分子性质预测 R^2=0.9846；
-<img width="650" alt="image" src="https://github.com/user-attachments/assets/dbcb9242-fc9d-477d-bb00-852602de983f" />
+![overview](https://github.com/user-attachments/assets/a1909469-293f-4cf4-9405-f95f42834f42)
+
 
 #### ML-MC协同沸石催化剂设计
 
