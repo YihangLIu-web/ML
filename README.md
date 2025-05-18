@@ -12,8 +12,9 @@
 #### 网络架构
 ![图片 1](https://github.com/user-attachments/assets/63375303-497d-4019-8a3a-0d880fe4e8ee)
 
-#### 知识增强型图注意力网络（KAGAT）
-![图片 2](https://github.com/user-attachments/assets/b73cc827-b0e6-4c49-8822-84c02e060648)
+#### TIPGNN 稀缺数据下AI驱动分子性质预测
+![图片 1](https://github.com/user-attachments/assets/ea91682e-77da-41ba-a83e-2d7aea52d5b6)
+
 
 
 
