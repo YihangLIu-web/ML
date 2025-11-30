@@ -1,0 +1,39 @@
+{
+  "paths": {
+    "TRAIN_DIR": "/Users/liuyihang/Desktop/dataset/train",
+    "VAL_DIR": "/Users/liuyihang/Desktop/dataset/val"
+  },
+  "data": {
+    "batch_size": 1,
+    "energy_scale": 1.0,
+    "num_workers": 1
+  },
+  "model": {
+    "hidden_channels": 128,
+    "num_filters": 128,
+    "num_interactions": 6,
+    "num_gaussians": 50,
+    "cutoff": 5.0,
+    "max_num_neighbors": 64
+  },
+  "train": {
+    "device": "cpu",
+    "num_epochs": 10,
+    "gradient_clip_norm": 1.0,
+    "logging_steps": 10,
+    "learning_rate": 0.001,
+    "weight_decay": 0.001,
+    "seed": 42,
+    "exp_root": "experiments",
+    "exp_name": "SchNet_experiments",
+    "exp_dir": "experiments/SchNet_experiments_20251130-100327",
+    "ckpt_dir": "experiments/SchNet_experiments_20251130-100327/checkpoints",
+    "log_dir": "experiments/SchNet_experiments_20251130-100327/logs",
+    "fig_dir": "experiments/SchNet_experiments_20251130-100327/figures",
+    "results_dir": "experiments/SchNet_experiments_20251130-100327/results",
+    "best_model_path": "experiments/SchNet_experiments_20251130-100327/checkpoints/best_model.pth",
+    "best_ckpt_path": "experiments/SchNet_experiments_20251130-100327/checkpoints/best_ckpt.pt",
+    "last_ckpt_path": "experiments/SchNet_experiments_20251130-100327/checkpoints/last_ckpt.pt",
+    "results_path": "experiments/SchNet_experiments_20251130-100327/results/test_results.json"
+  }
+}
